@@ -1,4 +1,4 @@
-# digital-process
+# Digital-Image-Processing 数字图像处理
 这是北京交通大学2024-2025学年第二学期“数字图像处理基础”课程的作业程序
 
 final10.py是最终程序
